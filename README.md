@@ -1,2 +1,3 @@
 # gitskills
-Life's a bitch
+GNU's Not Unix
+EMACS Makes Any Computer Slow
