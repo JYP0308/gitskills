@@ -2,7 +2,7 @@
 GNU's Not Unix
 EMACS Makes Any Computer Slow
 add something meaningless
-solve issue-101
 
+solving issue-101
 
 
